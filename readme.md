@@ -3,12 +3,10 @@
 <span><b>[ React / Next.js / Vue.js / Gatsby / TypeScript / Node.js / React-Native / Flutter / Wordpress / Laravel /
     Django ]</b></span>
 
-As a full stack developer, I have 7 years of experience in web development and focusing on MERN stack, React Native and
-Flutter.
 <br>
 - Frontend
 - Backend
-- Web Development
+- Mobile Development
 
 ## My Skills
 
@@ -153,17 +151,7 @@ Flutter.
     alt="intellij-idea" />
 </p>
 
-| ![Github
-stats](https://github-readme-stats.vercel.app/api?username=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
-| ![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
-|
-|
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|
-
-| ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermincasquero&include_all_commits=true&count_private=true&theme=tokyonight)
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fermincasquero&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fermincasquero&include_all_commits=true&count_private=true&theme=tokyonight)
 <br>
