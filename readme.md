@@ -1,8 +1,6 @@
 ## *Thanks you for visiting my profile.*
 
-<span><b>[ React / Next.js / Vue.js / Gatsby / TypeScript / Node.js / React-Native / Flutter / Wordpress / Laravel /
-    Django ]</b></span>
-
+<span><b>[ React / Next.js / Vue.js / Angular / TypeScript / Node.js / Express.js / React-Native / Laravel / Django / Spring Boot / .Net]</b></span>
 <br>
 - Frontend
 - Backend
